@@ -68,7 +68,6 @@
     <Compile Include="Assets\HostController.cs" />
     <Compile Include="Assets\LinkManager.cs" />
     <Compile Include="Assets\playerAttack2.cs" />
-    <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scenes\Enemy.cs" />
     <Compile Include="Assets\link1.cs" />
     <Compile Include="Assets\Rock.cs" />
